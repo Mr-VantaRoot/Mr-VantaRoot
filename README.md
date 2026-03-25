@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mr.VantaRoot
 
-<!--
-**Mr-VantaRoot/Mr-VantaRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm currently studying at a boarding school and learning **Cyber Security at INSA**.
+I'm deeply interested in the cyber world and love exploring how systems work and how to secure them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Interests
+
+* 🐍 Python
+* 🌐 HTML
+* ☕ Java
+* 🤖 AI & Robotics
+* 🔐 Cyber Security
+
+## 🧠 What I'm Doing
+
+* Learning ethical hacking and security fundamentals
+* Building small projects to improve my coding skills
+* Exploring AI and automation
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+## 📫 Contact
+
+* Email: mr.vanatroot@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
