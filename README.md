@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm currently studying at a boarding school and learning **Cyber Security at INSA**.
+I'm currently studying at a boarding school and learning **Cyber Security at INSA**. <br>
 I'm deeply interested in the cyber world and love exploring how systems work and how to secure them.
 
 ## 💻 Skills & Interests
