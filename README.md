@@ -31,7 +31,6 @@ I'm deeply interested in the cyber world and love exploring how systems work and
 ## 📫 Contact
 
 * Email: mr.vanatroot@gmail.com
-* www.instagram.com/auragachan7
 
 ---
 
