@@ -30,7 +30,9 @@ I'm deeply interested in the cyber world and love exploring how systems work and
 
 ## 📫 Contact
 
-* Email: mr.vanatroot@gmail.com
+* <a href="https://instagram.com/auragachan7">
+<a href="https://t.me/auragachan7">
+<a href="mailto:mr.vantaroot@gmail.com">
 
 ---
 
