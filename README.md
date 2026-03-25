@@ -28,17 +28,16 @@ I'm deeply interested in the cyber world and love exploring how systems work and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-## 📫 Contact
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/auragachan7" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/auragachan7" target="_blank">
     <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" alt="Telegram"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:mr.vanatroot@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
   </a>
