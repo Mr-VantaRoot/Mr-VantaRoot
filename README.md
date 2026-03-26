@@ -29,7 +29,7 @@ I'm deeply interested in the cyber world and love exploring how systems work and
 </p>
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/auragachan7" target="_blank">
