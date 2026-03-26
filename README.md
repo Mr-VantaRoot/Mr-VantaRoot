@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mr.VantaRoot
 
-## 🚀 About Me
+##  About Me
 
 I'm currently studying at a boarding school and learning **Cyber Security at INSA**. <br>
 I'm deeply interested in the cyber world and love exploring how systems work and how to secure them.
 
-## 💻 Skills & Interests
+##  Skills & Interests
 
 * 🐍 Python
 * 🌐 HTML
@@ -13,13 +13,13 @@ I'm deeply interested in the cyber world and love exploring how systems work and
 * 🤖 AI & Robotics
 * 🔐 Cyber Security
 
-## 🧠 What I'm Doing
+## What I'm Doing
 
 * Learning ethical hacking and security fundamentals
 * Building small projects to improve my coding skills
 * Exploring AI and automation
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
