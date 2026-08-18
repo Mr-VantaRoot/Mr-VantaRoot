@@ -36,7 +36,7 @@ I'm deeply interested in the cyber world and love exploring how systems work and
   <a href="https://instagram.com/auragachan7" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/auragachan7" target="_blank">
+  <a href="https://t.me/gachan7" target="_blank">
     <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" alt="Telegram"/>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:mr.vanatroot@gmail.com">
