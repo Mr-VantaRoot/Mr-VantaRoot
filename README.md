@@ -8,7 +8,6 @@
 
 **Cybersecurity • Software Development • Automation**
 
-📍 Ethiopia
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--VantaRoot-181717?style=flat-square&logo=github)](https://github.com/Mr-VantaRoot)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.vanatroot@gmail.com)
