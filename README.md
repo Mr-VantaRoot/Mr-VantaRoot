@@ -43,43 +43,6 @@ My work combines hands-on cybersecurity learning with building practical applica
 | **Software Development** | Backend APIs, databases, web interfaces, and application architecture |
 | **AI & Security** | Exploring AI applications, AI security concepts, and practical automation |
 
-## Featured Projects
-
-### 🛡️ [MASA + DY-MASA — Mobile Application Security Analyzer](https://github.com/Mr-VantaRoot/MASA_project)
-
-An evidence-backed Android APK security assessment platform that combines static analysis with optional ADB-based runtime validation.
-
-- Inspects APK manifests, permissions, components, deep links, and application configuration.
-- Uses **apktool** and **JADX** for APK decoding and DEX decompilation.
-- Generates structured evidence and rule-based security findings.
-- Supports optional native-library analysis through Ghidra.
-- Adds runtime observations through ADB, including installation, launch, screenshots, and logcat collection.
-- Provides a React dashboard, CLI, and HTML/PDF reporting.
-
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLite · ADB · JADX · apktool · Ghidra
-
-### 🔎 [Python Port Scanner](https://github.com/Mr-VantaRoot/port_scanner)
-
-A multithreaded command-line TCP port scanner built with Python's standard library.
-
-- Scans individual hosts and network subnets.
-- Supports configurable port ranges.
-- Performs basic host discovery and service identification.
-- Uses concurrent scanning to improve execution time.
-
-**Stack:** Python · TCP/IP · Socket Programming · CLI
-
-### 📡 [Network Traffic Monitor](https://github.com/Mr-VantaRoot/Network-Monitor)
-
-A Python-based network monitoring tool for capturing and inspecting packet headers.
-
-- Captures live network traffic using raw sockets.
-- Identifies TCP, UDP, and ICMP traffic.
-- Displays source and destination information.
-- Supports protocol filtering and traffic summaries.
-
-**Stack:** Python · Networking · Raw Sockets · Packet Analysis
-
 ## Technical Skills
 
 ### Programming & Development
