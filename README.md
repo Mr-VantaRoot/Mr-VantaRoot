@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ibsa (Mr.VantaRoot)
+# Hi, I'm Ibsa 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Cybersecurity+Student;Software+Developer;Python+%7C+Linux+%7C+Security" alt="Typing SVG" />
